@@ -1,0 +1,26 @@
+{
+  "name": "tzdate",
+  "main": "tzdate.js",
+  "version": "1.0.0",
+  "description": "TimeZone aware date manipulation functions",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "JavaScript",
+    "Date",
+    "TimeZone"
+  ],
+  "authors": [
+    "Spyridon Alfredos Desyllas <vellerefond@gmail.com>"
+  ],
+  "license": "GPLv2",
+  "homepage": "https://github.com/vellerefond/tzdate",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
